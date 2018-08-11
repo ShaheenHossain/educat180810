@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <odoo>
-    <template id="website.layout_logo_show" inherit_id="website.layout"
+<!-- <template id="website.layout_logo_show" inherit_id="website.layout"
         customize_show="True" name="Show Logo">
         <xpath expr="//header//a[@class='navbar-brand']" position="replace">
 
@@ -57,5 +57,5 @@
                 </div>
             </div>
         </xpath>
-    </template>
+    </template>  -->
 </odoo>
